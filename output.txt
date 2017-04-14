@@ -1,0 +1,79 @@
+PRINT TREE ASC
+ali
+	1
+	2
+	d.txt 1
+alice
+	1 
+	1
+	a.txt 1
+bob	
+	2
+	2
+	a.txt 1
+	b.txt 1
+charlie
+	1
+	4
+	c.txt 1
+jack	
+	3
+	2
+	b.txt 1
+	c.txt 1
+veli
+	1
+	4
+	d.txt 1
+SEARCH
+charlie
+	1
+	4
+	c.txt 1
+REMOVE ali
+PRINT TREE ASC
+alice
+	1 
+	1
+	a.txt 1
+bob	
+	2
+	2
+	a.txt 1
+	b.txt 1
+charlie
+	1
+	4
+	c.txt 1
+jack	
+	3
+	2
+	b.txt 1
+	c.txt 1
+veli
+	1
+	4
+	d.txt 1
+PRINT TREE DSC
+veli
+	1
+	4
+	d.txt 1
+jack	
+	3
+	2
+	b.txt 1
+	c.txt 1
+charlie
+	1
+	4
+	c.txt 1
+bob	
+	2
+	2
+	a.txt 1
+	b.txt 1
+alice
+	1 
+	1
+	a.txt 1
